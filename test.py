@@ -1,5 +1,5 @@
-My Git Project
+print('My Git Project')
 
-HeeSang is Sad :(
+print('HeeSang is Sad :(')
 
-my al-bba x
+print('hello heesang!')
