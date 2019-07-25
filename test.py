@@ -17,3 +17,5 @@ print('HeeSang is Sad :(')
 print('hello heesang!')
 
 fuck you~^^
+
+빡대가리친구야
