@@ -14,3 +14,6 @@ print('HeeSang is Sad :(')
 	print('시바려)'
 	
 	print('hello heesang!')
+print('hello heesang!')
+
+fuck you~^^
